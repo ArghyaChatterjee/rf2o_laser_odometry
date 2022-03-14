@@ -1,4 +1,4 @@
-# RF2O_laser_odometry
+# Laser Odometry from 2D Laser Scanner
 Estimation of 2D odometry based on planar laser scans. Useful for mobile robots with innacurate base odometry. 
 
 # Platform test
