@@ -30,7 +30,7 @@ roslaunch rf2o_laser_odometry rf2o_laser_odometry.launch
 ```
 An rviz display will publish and after proper rviz configuration, you will be able to see the following:
 <p align="center">
-    <img src="assets/odom_test.giff", width="800">
+    <img src="assets/odom_test.gif", width="800">
 </p>
 
 
